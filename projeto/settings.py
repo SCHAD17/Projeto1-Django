@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'recipes', # informar para django o app para que o html seja rodado
 ]
 
 MIDDLEWARE = [
